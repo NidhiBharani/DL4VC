@@ -36,6 +36,7 @@ PrecisionFDA Truth Challenge results vs DL4VC
 | [Installation](#installation) | System and code setup instructions |
 | [Data](#data) | Pre-processed datasets from precisionFDA to reproduce DL4VC results |
 | [Step by step guidelines](#step-by-step-guideline) | Instructions to train and run inference with DL4VC |
+| [Documentation](#documentation) | Detailed architecture, workflow, and data-format guides |
 
 ## Installation
 The installation has been tested on bare metal as well as conda virtual environments. We recommend conda environments 
@@ -60,3 +61,14 @@ section can be reproduced using the same datasets.
 ## Step By Step Guideline
 We have created a detailed step by step guideline to run both training and inference using
 the DL4VC pipeline in our [Step by Step Guide](docs/Step-by-step.md).
+
+## Documentation
+
+More extensive codebase documentation is available in:
+
+- [Documentation index](docs/README.md)
+- [Architecture guide](docs/Architecture.md)
+- [Workflow guide](docs/Workflows.md)
+- [Data format guide](docs/Data-Formats.md)
+- [Model and training guide](docs/Model-and-Training.md)
+- [Utilities and scripts reference](docs/Utilities-and-Scripts.md)
